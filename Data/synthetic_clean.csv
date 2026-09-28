@@ -1,0 +1,301 @@
+Order_ID,Order_Date,Customer,Province,Product,Quantity,Revenue
+ORD-10001,2026-01-01,Ivy Clark,Alberta,Laptop,5,6000
+ORD-10002,2026-01-01,Lucas MacDonald,Prince Edward Island,Docking Station,1,180
+ORD-10003,2026-01-02,Jack Chen,New Brunswick,Docking Station,1,180
+ORD-10004,2026-01-02,Ben Tremblay,Quebec,Laptop,2,2400
+ORD-10005,2026-01-03,Quinn Singh,Alberta,Keyboard,1,60
+ORD-10006,2026-01-04,Priya Morin,Ontario,Monitor,2,450
+ORD-10007,2026-01-05,Sam Bouchard,Quebec,Monitor,4,900
+ORD-10008,2026-01-06,Noah Campbell,Quebec,Laptop,2,2400
+ORD-10009,2026-01-07,Grace Campbell,British Columbia,Webcam,4,320
+ORD-10010,2026-01-07,Emma Campbell,British Columbia,Mouse,1,25
+ORD-10011,2026-01-08,Ethan Clark,Ontario,Docking Station,1,180
+ORD-10012,2026-01-09,Sam Lee,Ontario,Docking Station,2,360
+ORD-10013,2026-01-09,Emma Clark,Ontario,Mouse,2,50
+ORD-10014,2026-01-09,,Ontario,Monitor,4,900
+ORD-10015,2026-01-12,Aisha Côté,Quebec,Headphones,2,300
+ORD-10016,2026-01-12,David Hassan,Ontario,Headphones,4,600
+ORD-10017,2026-01-13,Sofia Silva,Ontario,Monitor,4,900
+ORD-10018,2026-01-13,Lucas Patel,Ontario,Headphones,2,300
+ORD-10019,2026-01-14,Ivy Hassan,Saskatchewan,Headphones,2,300
+ORD-10020,2026-01-15,Noah Taylor,Ontario,Laptop,1,1200
+ORD-10021,2026-01-15,Emma Côté,New Brunswick,Laptop,1,1200
+ORD-10022,2026-01-16,Rosa Ali,Quebec,Keyboard,2,120
+ORD-10023,2026-01-16,Wei Ali,Saskatchewan,Laptop,1,1200
+ORD-10024,2026-01-16,Sam Silva,Ontario,Laptop,3,3600
+ORD-10025,2026-01-17,Liam Hassan,Nova Scotia,Keyboard,1,60
+ORD-10026,2026-01-17,Grace Campbell,Ontario,Laptop,4,4800
+ORD-10027,2026-01-17,Rosa Hassan,Manitoba,Monitor,1,225
+ORD-10028,2026-01-18,Hugo Morin,Ontario,Keyboard,4,240
+ORD-10029,2026-01-18,Alice Khan,British Columbia,Keyboard,4,240
+ORD-10030,2026-01-18,Noah Pelletier,British Columbia,Webcam,3,240
+ORD-10031,2026-01-19,Aisha Ali,Ontario,Mouse,1,25
+ORD-10032,2026-01-19,Hugo Chen,Alberta,Laptop,3,3600
+ORD-10033,2026-01-19,Mateo Pelletier,Manitoba,Docking Station,1,180
+ORD-10034,2026-01-20,Grace Nguyen,Ontario,Mouse,1,25
+ORD-10035,2026-01-21,Ivy Scott,British Columbia,Monitor,5,1125
+ORD-10036,2026-01-21,Mateo Silva,Ontario,Tablet,2,1100
+ORD-10037,2026-01-21,Ivy Khan,Quebec,Laptop,1,1200
+ORD-10038,2026-01-22,Tara Fraser,Ontario,Headphones,1,150
+ORD-10039,2026-01-23,Quinn Lee,Quebec,Webcam,1,80
+ORD-10040,2026-01-24,Lucas Fraser,Ontario,Mouse,1,25
+ORD-10041,2026-01-24,Chloe Campbell,Saskatchewan,Mouse,1,25
+ORD-10042,2026-01-24,David MacDonald,Saskatchewan,Webcam,2,160
+ORD-10043,2026-01-24,Kara Nguyen,British Columbia,Headphones,2,300
+ORD-10044,2026-01-25,Priya Nguyen,British Columbia,Keyboard,1,60
+ORD-10045,2026-01-25,Jack Nguyen,Quebec,Keyboard,2,120
+ORD-10046,2026-01-25,Grace Fraser,Alberta,Laptop,1,1200
+ORD-10047,2026-01-26,Olivia Campbell,Ontario,Webcam,1,80
+ORD-10048,2026-01-26,Aisha MacDonald,Ontario,Docking Station,3,540
+ORD-10049,2026-01-26,Priya Côté,British Columbia,Monitor,1,225
+ORD-10050,2026-01-27,Ethan Bouchard,British Columbia,Monitor,3,675
+ORD-10051,2026-01-27,Emma Martin,Ontario,Mouse,3,
+ORD-10052,2026-01-28,Ethan Singh,Quebec,Docking Station,2,360
+ORD-10053,2026-01-28,Mia Dubois,Quebec,Mouse,2,50
+ORD-10054,2026-01-29,Alice Hassan,Alberta,Keyboard,2,120
+ORD-10055,2026-01-29,Hugo Khan,Alberta,Monitor,3,675
+ORD-10056,2026-01-29,Hugo Clark,Alberta,Docking Station,1,180
+ORD-10057,2026-01-29,Olivia Campbell,Quebec,Docking Station,1,180
+ORD-10058,2026-01-30,Wei Grant,British Columbia,Webcam,5,400
+ORD-10059,2026-01-31,Rosa Grant,Manitoba,Tablet,3,1650
+ORD-10060,2026-02-01,Ethan Bouchard,Alberta,Docking Station,1,180
+ORD-10061,2026-02-02,Quinn Dubois,British Columbia,Headphones,3,450
+ORD-10062,2026-02-02,Lucas Brown,Ontario,Headphones,1,150
+ORD-10063,2026-02-03,Rosa Singh,Ontario,Webcam,1,80
+ORD-10064,2026-02-05,Emma Ali,Ontario,Mouse,1,25
+ORD-10065,2026-02-05,Rosa Grant,Quebec,Tablet,1,550
+ORD-10066,2026-02-05,Mia Hassan,Alberta,Mouse,3,75
+ORD-10067,2026-02-05,Ethan Gagnon,Quebec,Laptop,3,3600
+ORD-10068,2026-02-06,Jack Kim,Quebec,Laptop,4,4800
+ORD-10069,2026-02-09,Sofia Silva,Alberta,Tablet,2,1100
+ORD-10070,2026-02-09,Ivy Fraser,Quebec,Mouse,1,25
+ORD-10071,2026-02-09,Priya Pelletier,Quebec,Tablet,1,550
+ORD-10072,2026-02-10,Zoe Roy,Newfoundland and Labrador,Keyboard,3,180
+ORD-10073,2026-02-10,Sam Gagnon,British Columbia,Laptop,4,4800
+ORD-10074,2026-02-10,Emma Morin,Quebec,Monitor,2,450
+ORD-10075,2026-02-11,Kara Chen,Quebec,Laptop,1,1200
+ORD-10076,2026-02-11,Mia Wong,Alberta,Webcam,3,240
+ORD-10077,2026-02-11,Chloe Dubois,Ontario,Tablet,1,550
+ORD-10078,2026-02-12,Liam Bouchard,British Columbia,Laptop,5,6000
+ORD-10079,2026-02-12,Hugo Chen,,Laptop,3,3600
+ORD-10080,2026-02-12,Paul Campbell,Ontario,Keyboard,1,60
+ORD-10081,2026-02-13,Ivy Kim,Ontario,Mouse,1,25
+ORD-10082,2026-02-15,Farid Brown,Ontario,Monitor,3,675
+ORD-10083,2026-02-16,Sam Campbell,Saskatchewan,Laptop,4,4800
+ORD-10084,2026-02-18,Lucas Chen,Ontario,Tablet,1,550
+ORD-10085,2026-02-18,Ethan Brown,Alberta,Mouse,1,25
+ORD-10086,2026-02-19,Sam Pelletier,Ontario,Monitor,3,675
+ORD-10087,2026-02-19,Chloe Adams,British Columbia,Tablet,2,1100
+ORD-10088,2026-02-20,Mateo Dubois,Ontario,Laptop,3,3600
+ORD-10089,2026-02-20,Mateo Grant,British Columbia,Webcam,2,160
+ORD-10090,2026-02-21,Quinn Côté,Ontario,Tablet,1,550
+ORD-10091,2026-02-23,Mateo MacDonald,Quebec,Docking Station,1,180
+ORD-10092,2026-02-24,Mateo Clark,Ontario,Webcam,3,
+ORD-10093,2026-02-24,Olivia Gagnon,British Columbia,Docking Station,1,180
+ORD-10094,2026-02-24,Paul Morin,Ontario,Tablet,1,550
+ORD-10095,2026-02-24,Aisha Wong,Ontario,Docking Station,1,180
+ORD-10096,2026-02-24,Quinn Chen,Ontario,Headphones,2,300
+ORD-10097,2026-02-25,Ethan Bouchard,British Columbia,Tablet,1,550
+ORD-10098,2026-02-25,Alice Singh,Ontario,Docking Station,1,180
+ORD-10099,2026-02-26,Jack Campbell,Quebec,Tablet,2,1100
+ORD-10100,2026-02-26,Liam Fraser,Prince Edward Island,Docking Station,2,360
+ORD-10101,2026-02-26,Olivia Wong,Ontario,Webcam,1,80
+ORD-10102,2026-02-26,Grace Patel,Ontario,Mouse,1,25
+ORD-10103,2026-02-27,,Ontario,Keyboard,1,60
+ORD-10104,2026-02-27,Mateo Chen,Ontario,Headphones,5,750
+ORD-10105,2026-02-28,Alice Ali,Quebec,Webcam,1,80
+ORD-10106,2026-02-28,Ben Silva,Ontario,Headphones,1,150
+ORD-10107,2026-02-28,Ethan Dubois,Ontario,Keyboard,2,120
+ORD-10108,2026-02-28,Paul Dubois,Quebec,Laptop,2,2400
+ORD-10109,2026-03-01,Ivy Morin,Quebec,Keyboard,5,300
+ORD-10110,2026-03-01,Chloe Gagnon,British Columbia,Monitor,1,225
+ORD-10111,2026-03-02,Aisha Gagnon,Nova Scotia,Laptop,1,1200
+ORD-10112,2026-03-02,David Silva,Alberta,Monitor,5,1125
+ORD-10113,2026-03-03,Mia Grant,Saskatchewan,Mouse,3,75
+ORD-10114,2026-03-03,Noah Brown,Quebec,Headphones,3,450
+ORD-10115,2026-03-04,Sofia Lee,Nova Scotia,Laptop,2,2400
+ORD-10116,2026-03-04,Ivy Campbell,Ontario,Mouse,2,50
+ORD-10117,2026-03-04,Chloe Khan,Ontario,Mouse,1,25
+ORD-10118,2026-03-05,Paul Brown,Ontario,Docking Station,2,360
+ORD-10119,2026-03-05,Lucas Morin,Quebec,Headphones,2,300
+ORD-10120,2026-03-05,Aisha Pelletier,British Columbia,Mouse,4,100
+ORD-10121,2026-03-05,Rosa Bouchard,British Columbia,Mouse,1,25
+ORD-10122,2026-03-06,Chloe Tremblay,Ontario,Headphones,3,450
+ORD-10123,2026-03-09,,Saskatchewan,Headphones,2,300
+ORD-10124,2026-03-09,Lucas Brown,British Columbia,Docking Station,1,180
+ORD-10125,2026-03-09,Paul Grant,Ontario,Headphones,2,300
+ORD-10126,2026-03-09,Sofia Patel,British Columbia,Laptop,4,4800
+ORD-10127,2026-03-09,Priya Taylor,Manitoba,Laptop,1,1200
+ORD-10128,2026-03-10,Priya Taylor,Ontario,Laptop,5,6000
+ORD-10129,2026-03-10,Farid Dubois,Quebec,Laptop,3,3600
+ORD-10130,2026-03-10,Farid Gagnon,Quebec,Docking Station,4,720
+ORD-10131,2026-03-11,Paul Scott,Quebec,Docking Station,5,
+ORD-10132,2026-03-12,Hannah Khan,Ontario,Webcam,2,160
+ORD-10133,2026-03-13,Mia Taylor,Alberta,Docking Station,1,180
+ORD-10134,2026-03-13,Kara Wong,Ontario,Laptop,1,1200
+ORD-10135,2026-03-13,Mateo Martin,British Columbia,Tablet,3,1650
+ORD-10136,2026-03-13,Grace Adams,Ontario,Docking Station,1,180
+ORD-10137,2026-03-13,Ethan Tremblay,Ontario,Docking Station,2,360
+ORD-10138,2026-03-16,Olivia Hassan,British Columbia,Keyboard,4,240
+ORD-10139,2026-03-17,Omar Wilson,Alberta,Monitor,1,225
+ORD-10140,2026-03-17,Alice Silva,Quebec,Keyboard,1,60
+ORD-10141,2026-03-18,Zoe Lee,Quebec,Mouse,5,125
+ORD-10142,2026-03-20,Emma Dubois,Nova Scotia,Monitor,2,450
+ORD-10143,2026-03-21,Ivy Fraser,Alberta,Headphones,2,300
+ORD-10144,2026-03-22,Rosa Roy,Quebec,Docking Station,1,180
+ORD-10145,2026-03-22,Ivy Kim,Alberta,Keyboard,3,180
+ORD-10146,2026-03-24,Aisha Adams,Ontario,Tablet,1,550
+ORD-10147,2026-03-25,Jack Taylor,Quebec,Laptop,1,1200
+ORD-10148,2026-03-26,Olivia Silva,Quebec,Docking Station,3,540
+ORD-10149,2026-03-28,Rosa Nguyen,Quebec,Webcam,2,160
+ORD-10150,2026-03-28,Lucas Bouchard,Quebec,Webcam,3,240
+ORD-10151,2026-03-28,Noah Tremblay,Ontario,Mouse,3,75
+ORD-10152,2026-03-29,Aisha Nguyen,Quebec,Docking Station,2,360
+ORD-10153,2026-03-29,Ben Roy,Quebec,Keyboard,1,60
+ORD-10154,2026-03-30,Hannah Morin,Quebec,Webcam,3,240
+ORD-10155,2026-04-01,Emma Fraser,Manitoba,Docking Station,1,180
+ORD-10156,2026-04-01,Aisha Wong,Ontario,Keyboard,1,60
+ORD-10157,2026-04-02,Hannah Patel,Alberta,Tablet,2,1100
+ORD-10158,2026-04-03,Omar Ali,Manitoba,Tablet,5,2750
+ORD-10159,2026-04-03,Ben Wilson,Ontario,Docking Station,4,720
+ORD-10160,2026-04-03,Sofia Singh,Quebec,Headphones,5,750
+ORD-10161,2026-04-04,Lucas Morin,Ontario,Monitor,3,675
+ORD-10162,2026-04-05,Wei Martin,Ontario,Keyboard,2,120
+ORD-10163,2026-04-06,Liam Fraser,Ontario,Laptop,1,1200
+ORD-10164,2026-04-06,Aisha Khan,Ontario,Tablet,2,1100
+ORD-10165,2026-04-07,Mia Wilson,British Columbia,Monitor,2,450
+ORD-10166,2026-04-08,Emma Bouchard,Quebec,Docking Station,4,720
+ORD-10167,2026-04-08,Priya Martin,Manitoba,Headphones,1,
+ORD-10168,2026-04-08,Priya Silva,Ontario,Docking Station,4,720
+ORD-10169,2026-04-08,Sam Brown,British Columbia,Docking Station,4,720
+ORD-10170,2026-04-08,Olivia Morin,Ontario,Tablet,2,1100
+ORD-10171,2026-04-09,David Bouchard,Quebec,Tablet,3,1650
+ORD-10172,2026-04-12,Lucas Brown,Ontario,Webcam,2,160
+ORD-10173,2026-04-13,Sam Morin,British Columbia,Tablet,1,550
+ORD-10174,2026-04-13,Sofia Dubois,Alberta,Laptop,4,4800
+ORD-10175,2026-04-13,Hugo Wilson,Alberta,Headphones,3,450
+ORD-10176,2026-04-13,Tara Wong,British Columbia,Mouse,2,50
+ORD-10177,2026-04-14,Wei Côté,British Columbia,Keyboard,2,120
+ORD-10178,2026-04-15,Ben Gagnon,Ontario,Headphones,3,450
+ORD-10179,2026-04-15,Jack Patel,Alberta,Keyboard,1,60
+ORD-10180,2026-04-16,Aisha Silva,Manitoba,Keyboard,1,60
+ORD-10181,2026-04-18,Zoe Wong,Alberta,Webcam,2,160
+ORD-10182,2026-04-19,Paul Pelletier,Ontario,Headphones,4,600
+ORD-10183,2026-04-19,Olivia Singh,Ontario,Webcam,3,240
+ORD-10184,2026-04-19,Sofia Campbell,New Brunswick,Mouse,3,75
+ORD-10185,2026-04-19,Mia Martin,Ontario,Webcam,1,80
+ORD-10186,2026-04-19,Priya MacDonald,British Columbia,Monitor,1,225
+ORD-10187,2026-04-19,Liam Lee,British Columbia,Tablet,3,1650
+ORD-10188,2026-04-20,Wei Silva,Ontario,Docking Station,1,180
+ORD-10189,2026-04-21,Omar Taylor,Quebec,Mouse,2,50
+ORD-10190,2026-04-22,David Roy,Ontario,Headphones,2,300
+ORD-10191,2026-04-23,Paul Lee,Ontario,Laptop,1,1200
+ORD-10192,2026-04-24,Liam Campbell,Nova Scotia,Keyboard,1,60
+ORD-10193,2026-04-25,Sofia Roy,Manitoba,Tablet,2,1100
+ORD-10194,2026-04-25,Tara Fraser,Nova Scotia,Monitor,3,675
+ORD-10195,2026-04-26,Liam Chen,Quebec,Headphones,1,150
+ORD-10196,2026-04-27,David Campbell,Ontario,Mouse,3,75
+ORD-10197,2026-04-27,Ivy Chen,New Brunswick,Webcam,1,
+ORD-10198,2026-04-28,Grace Côté,British Columbia,Docking Station,1,180
+ORD-10199,2026-04-28,Kara Bouchard,Newfoundland and Labrador,Laptop,1,1200
+ORD-10200,2026-04-29,Ethan Silva,Ontario,Mouse,1,25
+ORD-10201,2026-04-29,Hugo Patel,Alberta,Mouse,3,75
+ORD-10202,2026-04-30,Emma Roy,Quebec,Laptop,1,1200
+ORD-10203,2026-04-30,Hannah Martin,Ontario,Keyboard,1,60
+ORD-10204,2026-05-02,Hugo Gagnon,Ontario,Webcam,3,240
+ORD-10205,2026-05-02,Emma MacDonald,Quebec,Keyboard,1,60
+ORD-10206,2026-05-02,Paul Grant,Alberta,Monitor,2,450
+ORD-10207,2026-05-04,Hugo Wilson,Ontario,Monitor,1,225
+ORD-10208,2026-05-05,Alice Tremblay,Prince Edward Island,Headphones,1,150
+ORD-10209,2026-05-05,David Dubois,British Columbia,Tablet,1,
+ORD-10210,2026-05-05,Chloe Patel,British Columbia,Docking Station,1,180
+ORD-10211,2026-05-06,Tara Côté,Quebec,Monitor,1,225
+ORD-10212,2026-05-07,Tara Adams,Ontario,Webcam,1,80
+ORD-10213,2026-05-08,Lucas Lee,Alberta,Tablet,1,550
+ORD-10214,2026-05-09,Wei Bouchard,Quebec,Mouse,1,25
+ORD-10215,2026-05-10,Sofia Lee,Ontario,Docking Station,1,180
+ORD-10216,2026-05-10,Liam Roy,British Columbia,Webcam,2,160
+ORD-10217,2026-05-10,Mateo Singh,Ontario,Docking Station,1,180
+ORD-10218,2026-05-11,Liam Pelletier,Ontario,Monitor,2,450
+ORD-10219,2026-05-12,Rosa Silva,,Laptop,2,2400
+ORD-10220,2026-05-13,Hannah Campbell,Nova Scotia,Monitor,1,225
+ORD-10221,2026-05-16,Sofia Tremblay,New Brunswick,Tablet,3,1650
+ORD-10222,2026-05-16,Sam Adams,Ontario,Headphones,1,150
+ORD-10223,2026-05-16,David Scott,Alberta,Docking Station,1,180
+ORD-10224,2026-05-17,Ivy Gagnon,Ontario,Webcam,1,80
+ORD-10225,2026-05-17,Ethan Taylor,British Columbia,Tablet,3,1650
+ORD-10226,2026-05-18,Priya Taylor,British Columbia,Laptop,2,2400
+ORD-10227,2026-05-18,Lucas Kim,Ontario,Laptop,1,1200
+ORD-10228,2026-05-18,Farid Morin,Ontario,Webcam,1,80
+ORD-10229,2026-05-18,Sofia Côté,New Brunswick,Tablet,1,550
+ORD-10230,2026-05-19,Grace Nguyen,Quebec,Monitor,2,450
+ORD-10231,2026-05-19,Jack MacDonald,Ontario,Webcam,1,80
+ORD-10232,2026-05-19,Emma Khan,Alberta,Monitor,4,900
+ORD-10233,2026-05-19,Ivy Grant,British Columbia,Laptop,2,2400
+ORD-10234,2026-05-20,Noah Wong,Ontario,Docking Station,2,360
+ORD-10235,2026-05-20,David Brown,British Columbia,Monitor,1,225
+ORD-10236,2026-05-21,Jack Tremblay,Ontario,Docking Station,2,360
+ORD-10237,2026-05-21,Jack Chen,Alberta,Laptop,1,1200
+ORD-10238,2026-05-22,David Martin,Quebec,Headphones,1,150
+ORD-10239,2026-05-22,Mia Silva,British Columbia,Tablet,1,550
+ORD-10240,2026-05-22,Hannah MacDonald,Ontario,Webcam,1,80
+ORD-10241,2026-05-23,Chloe Morin,Ontario,Laptop,1,1200
+ORD-10242,2026-05-24,Lucas Côté,Quebec,Tablet,2,1100
+ORD-10243,2026-05-24,Kara Khan,Alberta,Monitor,1,225
+ORD-10244,2026-05-26,Zoe Scott,Ontario,Docking Station,3,540
+ORD-10245,2026-05-26,Sam Nguyen,Quebec,Monitor,1,225
+ORD-10246,2026-05-27,Sofia Patel,Ontario,Tablet,4,2200
+ORD-10247,2026-05-28,Omar Lee,Quebec,Keyboard,1,60
+ORD-10248,2026-05-28,Liam Scott,British Columbia,Mouse,4,100
+ORD-10249,2026-05-30,Emma Wong,Ontario,Keyboard,1,60
+ORD-10250,2026-05-30,Omar Singh,Ontario,Keyboard,3,180
+ORD-10251,2026-05-31,Sam Kim,Quebec,Docking Station,1,180
+ORD-10252,2026-05-31,Omar Patel,Ontario,Webcam,3,240
+ORD-10253,2026-05-31,Omar Brown,Alberta,Monitor,1,225
+ORD-10254,2026-06-01,Chloe Brown,Quebec,Laptop,1,1200
+ORD-10255,2026-06-02,Mateo Brown,Ontario,Laptop,1,1200
+ORD-10256,2026-06-02,Quinn Nguyen,Quebec,Monitor,2,450
+ORD-10257,2026-06-03,Aisha Gagnon,British Columbia,Laptop,1,1200
+ORD-10258,2026-06-04,Quinn Roy,Nova Scotia,Webcam,2,160
+ORD-10259,2026-06-04,Wei Taylor,Ontario,Docking Station,1,180
+ORD-10260,2026-06-05,Farid Tremblay,Ontario,Monitor,2,450
+ORD-10261,2026-06-05,Quinn Adams,British Columbia,Docking Station,5,900
+ORD-10262,2026-06-05,Jack Nguyen,Quebec,Webcam,1,80
+ORD-10263,2026-06-08,Ben Pelletier,British Columbia,Webcam,2,160
+ORD-10264,2026-06-10,David Silva,British Columbia,Webcam,1,80
+ORD-10265,2026-06-10,Hannah Campbell,New Brunswick,Headphones,1,150
+ORD-10266,2026-06-10,Sam Campbell,Ontario,Keyboard,1,60
+ORD-10267,2026-06-11,Omar Ali,British Columbia,Webcam,1,80
+ORD-10268,2026-06-12,Chloe Brown,Quebec,Keyboard,2,120
+ORD-10269,2026-06-12,Priya Ali,Alberta,Webcam,3,240
+ORD-10270,2026-06-13,Noah Adams,Ontario,Monitor,2,450
+ORD-10271,2026-06-13,Grace Patel,Nova Scotia,Webcam,1,80
+ORD-10272,2026-06-13,Emma Roy,Ontario,Docking Station,1,180
+ORD-10273,2026-06-14,Rosa Taylor,British Columbia,Monitor,2,450
+ORD-10274,2026-06-14,Wei Kim,British Columbia,Laptop,2,2400
+ORD-10275,2026-06-15,Farid Taylor,British Columbia,Tablet,1,550
+ORD-10276,2026-06-15,Ben Fraser,Ontario,Keyboard,2,120
+ORD-10277,2026-06-16,Tara Brown,Alberta,Mouse,5,125
+ORD-10278,2026-06-16,Hugo Brown,New Brunswick,Docking Station,1,180
+ORD-10279,2026-06-16,Grace Scott,British Columbia,Docking Station,4,720
+ORD-10280,2026-06-17,Jack Kim,Quebec,Docking Station,1,180
+ORD-10281,2026-06-17,Mateo Chen,Alberta,Tablet,5,2750
+ORD-10282,2026-06-18,Ben Côté,Quebec,Keyboard,4,240
+ORD-10283,2026-06-18,David Ali,Alberta,Webcam,2,160
+ORD-10284,2026-06-19,Ethan Khan,Ontario,Monitor,1,225
+ORD-10285,2026-06-21,Chloe Clark,Ontario,Keyboard,3,180
+ORD-10286,2026-06-21,Zoe Martin,Quebec,Docking Station,4,720
+ORD-10287,2026-06-21,,Prince Edward Island,Tablet,2,1100
+ORD-10288,2026-06-22,Kara Clark,Ontario,Webcam,1,80
+ORD-10289,2026-06-23,Emma Tremblay,Ontario,Webcam,3,240
+ORD-10290,2026-06-24,Emma Kim,British Columbia,Docking Station,2,360
+ORD-10291,2026-06-24,Wei Singh,Ontario,Docking Station,2,360
+ORD-10292,2026-06-24,Rosa MacDonald,British Columbia,Mouse,3,75
+ORD-10293,2026-06-24,Jack Bouchard,Ontario,Tablet,1,550
+ORD-10294,2026-06-25,Omar Pelletier,British Columbia,Laptop,1,1200
+ORD-10295,2026-06-26,Wei Dubois,Quebec,Monitor,1,225
+ORD-10296,2026-06-26,Sam Bouchard,British Columbia,Laptop,2,2400
+ORD-10297,2026-06-28,Tara Scott,Ontario,Headphones,1,150
+ORD-10298,2026-06-29,Priya Singh,Quebec,Tablet,1,550
+ORD-10299,2026-06-29,Quinn Silva,Quebec,Webcam,1,80
+ORD-10300,2026-06-30,Paul Tremblay,British Columbia,Laptop,1,1200

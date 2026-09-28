@@ -1,0 +1,113 @@
+row,order_id,column,error_type,bad_value,correct_value,needs_human
+3,ORD-10004,Revenue,currency_text,2400$,2400,no
+8,ORD-10009,Province,province_variant,british columbia,British Columbia,no
+13,ORD-10014,Customer,missing_value,null,,yes
+13,ORD-10014,Province,province_typo,Ontaro,Ontario,no
+19,ORD-10020,Province,province_variant,ontario,Ontario,no
+20,ORD-10021,Revenue,currency_text,$1200.00,1200,no
+23,ORD-10024,Province,province_variant,ontario,Ontario,no
+31,ORD-10032,Revenue,currency_text,3600$,3600,no
+32,ORD-10033,Province,whitespace,  Manitoba  ,Manitoba,no
+34,ORD-10035,Province,province_variant,B.C,British Columbia,no
+35,ORD-10036,Province,province_variant,ontario,Ontario,no
+35,ORD-10036,Revenue,currency_text,"1,100",1100,no
+36,ORD-10037,Revenue,currency_text,CAD 1200,1200,no
+38,ORD-10039,Order_Date,mixed_date_format,Jan 23 2026,2026-01-23,no
+42,ORD-10043,Revenue,outlier,30000,300,yes
+45,ORD-10046,Province,province_variant,Alta.,Alberta,no
+47,ORD-10047,*,duplicate_row,(whole row repeated),(delete row),yes
+48,ORD-10048,Province,province_variant,ONTARIO,Ontario,no
+50,ORD-10050,Order_Date,mixed_date_format,27/01/2026,2026-01-27,no
+51,ORD-10051,Revenue,missing_value,null,,yes
+52,ORD-10052,Order_Date,mixed_date_format,28/01/2026,2026-01-28,no
+60,ORD-10060,Province,whitespace,  Alberta  ,Alberta,no
+63,ORD-10063,Order_Date,ambiguous_date,02/03/26,2026-02-03,yes
+64,ORD-10064,Province,province_typo,Onatrio,Ontario,no
+68,ORD-10068,Order_Date,ambiguous_date,02/06/26,2026-02-06,yes
+68,ORD-10068,Revenue,negative_revenue,-4800,4800,yes
+69,ORD-10069,Province,province_variant,Alta.,Alberta,no
+70,ORD-10070,Order_Date,ambiguous_date,02/09/26,2026-02-09,yes
+71,ORD-10071,Order_Date,ambiguous_date,02/09/26,2026-02-09,yes
+75,ORD-10075,Revenue,currency_text,"$1,200",1200,no
+77,ORD-10077,Revenue,outlier,55000,550,yes
+78,ORD-10078,Revenue,currency_text,$6000.00,6000,no
+79,ORD-10079,Province,missing_value,NA,,yes
+89,ORD-10089,Quantity,zero_quantity,0,2,yes
+92,ORD-10092,Revenue,missing_value,N/A,,yes
+93,ORD-10093,Province,province_variant,B.C,British Columbia,no
+98,ORD-10098,Province,province_variant,Ont.,Ontario,no
+103,ORD-10103,Customer,missing_value,N/A,,yes
+103,ORD-10103,Province,whitespace, Ontario  ,Ontario,no
+105,ORD-10105,Province,province_variant,quebec,Quebec,no
+107,ORD-10106,*,duplicate_row,(whole row repeated),(delete row),yes
+111,ORD-10110,Province,province_variant,BC,British Columbia,no
+111,ORD-10110,Revenue,negative_revenue,-225,225,yes
+112,ORD-10111,Province,province_variant,NS,Nova Scotia,no
+112,ORD-10111,Revenue,currency_text,CAD 1200,1200,no
+119,ORD-10118,Order_Date,ambiguous_date,03/05/26,2026-03-05,yes
+124,ORD-10123,Customer,missing_value,-,,yes
+125,ORD-10124,Order_Date,future_date,2027-03-09,2026-03-09,yes
+127,ORD-10126,Province,province_variant,BC,British Columbia,no
+127,ORD-10126,Revenue,currency_text,"4,800",4800,no
+129,ORD-10128,Revenue,currency_text,$6000.00,6000,no
+130,ORD-10129,Order_ID,duplicate_id,ORD-10101,ORD-10129,yes
+132,ORD-10131,Revenue,missing_value,,,yes
+141,ORD-10140,Province,province_variant,QC,Quebec,no
+143,ORD-10142,Order_Date,mixed_date_format,20/03/2026,2026-03-20,no
+147,ORD-10146,Order_ID,duplicate_id,ORD-10041,ORD-10146,yes
+154,ORD-10153,Order_Date,mixed_date_format,Mar 29 2026,2026-03-29,no
+158,ORD-10157,Revenue,negative_revenue,-1100,1100,yes
+159,ORD-10158,Revenue,currency_text,"2,750",2750,no
+165,ORD-10164,Revenue,currency_text,$1100.00,1100,no
+168,ORD-10167,Revenue,missing_value,null,,yes
+169,ORD-10168,Order_Date,ambiguous_date,04/08/26,2026-04-08,yes
+170,ORD-10169,Province,whitespace, British Columbia  ,British Columbia,no
+171,ORD-10170,Revenue,currency_text,1100$,1100,no
+173,ORD-10172,Province,province_variant,ontario,Ontario,no
+175,ORD-10174,Province,province_variant,AB,Alberta,no
+178,ORD-10177,Order_Date,future_date,2027-04-14,2026-04-14,yes
+179,ORD-10178,Order_ID,duplicate_id,ORD-10267,ORD-10178,yes
+185,ORD-10184,Province,province_variant,N.B.,New Brunswick,no
+188,ORD-10187,Order_Date,mixed_date_format,19/04/2026,2026-04-19,no
+191,ORD-10190,Province,province_variant,Ont.,Ontario,no
+193,ORD-10192,Province,province_variant,N.S.,Nova Scotia,no
+198,ORD-10197,Revenue,missing_value,,,yes
+199,ORD-10198,Province,province_variant,BC,British Columbia,no
+200,ORD-10199,Order_Date,mixed_date_format,28/04/2026,2026-04-28,no
+203,ORD-10202,Revenue,currency_text,"1,200",1200,no
+205,ORD-10204,Province,whitespace, Ontario ,Ontario,no
+207,ORD-10206,Province,whitespace, Alberta  ,Alberta,no
+210,ORD-10209,Revenue,missing_value,NA,,yes
+214,ORD-10212,*,duplicate_row,(whole row repeated),(delete row),yes
+216,ORD-10214,Province,whitespace,  Quebec ,Quebec,no
+221,ORD-10219,Province,missing_value,-,,yes
+222,ORD-10220,Order_Date,mixed_date_format,"May 13, 2026",2026-05-13,no
+223,ORD-10221,Revenue,currency_text,"1,650",1650,no
+228,ORD-10226,Revenue,currency_text,$2400.00,2400,no
+231,ORD-10229,Quantity,zero_quantity,0,1,yes
+234,ORD-10232,Order_Date,mixed_date_format,May 19 2026,2026-05-19,no
+239,ORD-10237,Revenue,currency_text,"$1,200",1200,no
+242,ORD-10239,*,duplicate_row,(whole row repeated),(delete row),yes
+245,ORD-10241,*,duplicate_row,(whole row repeated),(delete row),yes
+246,ORD-10242,Province,province_variant,Québec,Quebec,no
+248,ORD-10244,Order_Date,mixed_date_format,"May 26, 2026",2026-05-26,no
+248,ORD-10244,Province,whitespace,  Ontario  ,Ontario,no
+249,ORD-10245,Province,province_variant,Québec,Quebec,no
+251,ORD-10247,Order_Date,mixed_date_format,May 28 2026,2026-05-28,no
+257,ORD-10253,Province,province_variant,alberta,Alberta,no
+258,ORD-10254,Revenue,outlier,120000,1200,yes
+274,ORD-10270,Revenue,negative_revenue,-450,450,yes
+275,ORD-10271,Order_Date,mixed_date_format,Jun 13 2026,2026-06-13,no
+278,ORD-10274,Revenue,currency_text,CAD 2400,2400,no
+281,ORD-10277,Province,province_variant,alberta,Alberta,no
+282,ORD-10278,Province,province_variant,N.B.,New Brunswick,no
+283,ORD-10279,Province,province_variant,british columbia,British Columbia,no
+286,ORD-10282,Order_Date,mixed_date_format,Jun 18 2026,2026-06-18,no
+290,ORD-10286,Province,province_variant,quebec,Quebec,no
+291,ORD-10287,Customer,missing_value,NA,,yes
+296,ORD-10292,Province,province_variant,british columbia,British Columbia,no
+298,ORD-10294,Order_Date,mixed_date_format,"Jun 25, 2026",2026-06-25,no
+299,ORD-10295,Province,province_variant,Québec,Quebec,no
+300,ORD-10296,Revenue,currency_text,"2,400",2400,no
+301,ORD-10297,Order_Date,mixed_date_format,"Jun 28, 2026",2026-06-28,no
+304,ORD-10300,Revenue,currency_text,"1,200",1200,no

@@ -1,0 +1,20 @@
+Order_ID,Order_Date,Customer,Province,Product,Quantity,Revenue
+ORD-1001,2026-01-05,Alice Martin,Ontario,Laptop,1,1200
+ORD-1002,2026-01-06,Ben Tremblay,Quebec,Monitor,2,450
+ORD-1003,2026-01-07,Chloe Singh,Ontario,Keyboard,3,1200
+ORD-1004,2026-01-08,David Lee,British Columbia,Mouse,5,125
+ORD-1005,2026-01-09,Emma Roy,Ontario,Laptop,1,1150
+ORD-1006,2026-01-10,Farid Khan,Ontario,Headphones,2,300
+ORD-1007,2026-01-11,Grace Chen,Alberta,Monitor,1,225
+ORD-1009,2026-01-13,Hugo Bouchard,Quebec,Laptop,1,1100
+ORD-1010,2026-01-14,,Ontario,Mouse,4,100
+ORD-1011,2026-01-15,Ivy Wong,British Columbia,Keyboard,2,
+ORD-1012,2026-01-16,Jack Brown,Manitoba,Laptop,1,1250
+ORD-1013,2026-01-17,Kara Patel,Ontario,Monitor,2,470
+ORD-1014,2026-01-18,Liam Scott,Saskatchewan,Headphones,1,
+ORD-1015,2026-01-19,Mia Nguyen,Nova Scotia,Laptop,1,1180
+ORD-1016,2026-01-20,Noah Fraser,Ontario,Mouse,3,75
+ORD-1017,2026-01-21,Olivia Grant,Alberta,Keyboard,1,60
+ORD-1018,2026-01-22,Paul Dubois,Quebec,Monitor,1,99999
+ORD-1019,2026-01-23,Quinn Adams,Ontario,Laptop,2,2400
+ORD-1020,2026-01-24,Rosa Silva,Ontario,Headphones,1,150
