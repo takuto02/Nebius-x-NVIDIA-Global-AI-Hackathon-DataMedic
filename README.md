@@ -21,11 +21,17 @@ Here are the 13 error types:
 Roles:
 
 Role 1: Project Lead / Product & Pitch by Jason Thai + Jesika
+
 Role 2: Agent Architect (LLM & Reasoning Lead) by Ria Chahar
+
 Role 3: Repair Tools Engineer by Omer
+
 Role 4: Profiling, Validation & Health Score Engineer by Jason Thai
+
 Role 5: Backend & Infrastructure Engineer by Nashwa
+
 Role 6: Frontend Engineer by Prabal
+
 Role 7: Data, Evaluation & QA Engineer by Marko
 
 
