@@ -43,7 +43,7 @@ Nashwa
 Prabal
 
 **Role 7: Data, Evaluation & QA Engineer**  
-Marko
+Jason Thai
 
 ---
 
