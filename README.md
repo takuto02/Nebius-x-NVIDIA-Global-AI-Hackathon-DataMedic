@@ -31,7 +31,7 @@ Jason Thai + Jesika
 Ria Chahar
 
 **Role 3: Repair Tools Engineer**  
-Omer
+Ria Chahar
 
 **Role 4: Profiling, Validation & Health Score Engineer**  
 Jason Thai
