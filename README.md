@@ -311,8 +311,6 @@ Testing covered:
 
 - **Prabal Pratap Sharma**
 - **Nashwa Meher Ahmed Lnu**
-- **Shreya Vinod Gupta**
-- **Jesika Dasadia**
 
 ---
 
