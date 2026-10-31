@@ -1,4 +1,4 @@
-#DataMedic
+# DataMedic
 
 **AI-powered data reliability agent built for the Nebius × NVIDIA Global AI Hackathon.**
 
