@@ -1,16 +1,16 @@
-# Codename: DataMedic
+#DataMedic
 
 **AI-powered data reliability agent built for the Nebius × NVIDIA Global AI Hackathon.**
 
-Codename: DataMedic detects data-quality problems, reasons about how they should be handled, automatically repairs high-confidence issues, validates every repair, and sends uncertain cases to a human instead of guessing.
+DataMedic detects data-quality problems, reasons about how they should be handled, automatically repairs high-confidence issues, validates every repair, and sends uncertain cases to a human instead of guessing.
 
 The application uses **NVIDIA Nemotron through Nebius** for agent reasoning and a deterministic Python repair and validation layer for safe execution.
 
 ---
 
-## What Codename: DataMedic Does
+## What DataMedic Does
 
-Codename: DataMedic takes a CSV dataset and runs an end-to-end data reliability workflow:
+DataMedic takes a CSV dataset and runs an end-to-end data reliability workflow:
 
 1. **Detect** data-quality problems.
 2. **Reason** about each issue using NVIDIA Nemotron.
@@ -29,7 +29,7 @@ The original uploaded dataset is never modified.
 
 ### Data Profiling
 
-Codename: DataMedic detects issues including:
+DataMedic detects issues including:
 
 - Missing values
 - Duplicate rows
@@ -62,7 +62,7 @@ Examples include:
 - Date standardization
 - Duplicate-row removal
 
-After a repair, Codename: DataMedic profiles the dataset again to verify that the intended issue was actually resolved.
+After a repair, DataMedic profiles the dataset again to verify that the intended issue was actually resolved.
 
 If validation fails, the repair is rolled back.
 
@@ -77,7 +77,7 @@ The reviewer can:
 - Enter a corrected value for a specific row
 - Approve supported repair actions
 
-Codename: DataMedic records these decisions in the audit trail.
+DataMedic records these decisions in the audit trail.
 
 ### Business Rules
 
@@ -92,7 +92,7 @@ Supported rules include constraints such as:
 - Canadian province validation
 - Pattern validation
 
-If no rules file is supplied, Codename: DataMedic can infer conservative rules from the dataset.
+If no rules file is supplied, DataMedic can infer conservative rules from the dataset.
 
 ### Dataset Context
 
@@ -100,7 +100,7 @@ Users can optionally provide a natural-language description of the dataset to gi
 
 ### Data Health Score
 
-Codename: DataMedic calculates a data-health score across quality dimensions including:
+DataMedic calculates a data-health score across quality dimensions including:
 
 - Completeness
 - Uniqueness
@@ -112,7 +112,7 @@ The interface shows data quality before and after verified repairs.
 
 ### Full Auditability
 
-Codename: DataMedic records:
+DataMedic records:
 
 - Detected issue
 - Proposed repair
@@ -136,7 +136,7 @@ Outputs include:
 
 ## Safety Model
 
-Codename: DataMedic follows a simple principle:
+DataMedic follows a simple principle:
 
 > **Automate when the evidence is strong. Ask when it isn't.**
 
@@ -144,7 +144,7 @@ The LLM acts as the reasoning layer, while deterministic Python tools perform ac
 
 Automatic repairs are re-checked after execution. Failed repairs are rolled back rather than silently accepted.
 
-For ambiguous or unsupported corrections, Codename: DataMedic requests human review instead of inventing data.
+For ambiguous or unsupported corrections, DataMedic requests human review instead of inventing data.
 
 ---
 
@@ -181,16 +181,16 @@ Connects detected issues to NVIDIA Nemotron and manages agent reasoning and repa
 Contains deterministic repair operations and repair validation/rollback logic.
 
 **`health_score.py`**  
-Calculates Codename: DataMedic's data-health metrics.
+Calculates DataMedic's data-health metrics.
 
 **`audit_to_pdf.py`**  
 Generates the downloadable PDF audit report.
 
 **`run_datamedic.py`**  
-Runs the Codename: DataMedic workflow used by the Streamlit interface.
+Runs the DataMedic workflow used by the Streamlit interface.
 
 **`generate_dataset.py`**  
-Generates synthetic messy data for testing Codename: DataMedic's detection and repair workflow.
+Generates synthetic messy data for testing DataMedic's detection and repair workflow.
 
 ---
 
@@ -213,7 +213,7 @@ Dependencies:
 
 ## Configuration
 
-Codename: DataMedic requires credentials for the Nemotron endpoint.
+DataMedic requires credentials for the Nemotron endpoint.
 
 Store credentials securely using environment variables or Streamlit secrets.
 
@@ -232,7 +232,7 @@ __pycache__/
 
 ---
 
-## Running Codename: DataMedic
+## Running DataMedic
 
 Start the Streamlit application with:
 
@@ -256,13 +256,13 @@ Then:
 
 ### 100% Detection in Synthetic Evaluation
 
-Codename: DataMedic detected **100% of the intentionally planted data-quality errors in our synthetic evaluation dataset across the tested error categories**.
+DataMedic detected **100% of the intentionally planted data-quality errors in our synthetic evaluation dataset across the tested error categories**.
 
-Each detected issue is tracked through Codename: DataMedic's workflow—from profiling and Nemotron reasoning through repair, validation, human review, and the final audit trail.
+Each detected issue is tracked through DataMedic's workflow—from profiling and Nemotron reasoning through repair, validation, human review, and the final audit trail.
 
 > **100% refers to the controlled synthetic evaluation and is not a guarantee of detecting every possible error in arbitrary real-world datasets.**
 
-Codename: DataMedic has been tested with both synthetic and external datasets.
+DataMedic has been tested with both synthetic and external datasets.
 
 Testing covered:
 
