@@ -307,7 +307,7 @@ Testing covered:
 
 - **Omer Irfan** — Application Testing & QA Feedback
 
-### Additional Team Members
+### Registered team members (not involved in development)
 
 - **Prabal Pratap Sharma**
 - **Nashwa Meher Ahmed Lnu**
